@@ -5,7 +5,7 @@
 # Executables
 *.exe
 *.out
+Raytracer
 
 # Picturefiles
-
 *.pnm
